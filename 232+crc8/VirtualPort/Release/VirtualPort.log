@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  VirtualPort.cpp
+c:\users\sergey\source\repos\virtualport\virtualport\virtualport.cpp(58): warning C4129: M: неизвестная escape-последовательность
+  Создание кода
+  All 154 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  VirtualPort.vcxproj -> C:\Users\Sergey\source\repos\VirtualPort\Release\VirtualPort.exe
